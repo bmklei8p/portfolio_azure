@@ -1,0 +1,7 @@
+[[run]]
+  script = "npm run build"
+  platform = "node"
+
+[build]
+  command = "npm install"
+  platform = "node"
